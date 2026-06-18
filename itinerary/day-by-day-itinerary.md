@@ -2,7 +2,7 @@
 
 **Status:** Working skeleton. Many fields are marked TBC and will be filled country by country.
 **Prepared:** 18 June 2026 by Atoure Consulting
-**Group:** 11 travellers (9 US, 1 UK, 1 Cameroon passport)
+**Group:** 12 travellers
 **Start:** 28 June 2026, touchdown Cameroon in the evening.
 
 ---
@@ -54,6 +54,8 @@ Total: 20 days, 28 Jun to 17 Jul.
   - Check in and rest.
   - Full team debrief at the hotel.
   - Security handover: our head of security meets the local ground security team at the hotel and sets the protocol for the next day (local security contact TBC per country).
+  - A new ground security team in every country, so this protocol meeting happens at each arrival.
+  - SIM cards arranged by the ground partner the night before each country, ready on arrival.
 - Experience and live stream are scheduled in the afternoon, to maximise overlap between the US morning and the local afternoon and evening audiences. This holds for both 2 day and 3 day stays.
 - Each stream runs approximately 3 to 5 hours.
 - Experience and stream content is marked TBC while experience curation is finalised.
